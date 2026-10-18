@@ -1,0 +1,181 @@
+{
+  "packaged_on": "2026-10-18",
+  "purpose": "Frozen three-EA research shortlist; no deployment",
+  "copied_files": [
+    {
+      "file": "01_NAS100_3ea\\NAS100 3ea.ex5",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\NAS100 3ea\\NAS100 3ea.ex5",
+      "sha256": "4c2aa2b80f1248f12b3b3e2c8d72515453607322c6b32f3f97f5f7f8c2d77d7c"
+    },
+    {
+      "file": "01_NAS100_3ea\\NAS100 3ea.mq5",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\NAS100 3ea\\NAS100 3ea.mq5",
+      "sha256": "1d60c734b7e62e7b8038df6f8d20363db21ea2ccc02475675cccc56ee38753b0"
+    },
+    {
+      "file": "01_NAS100_3ea\\report_inputs.set",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\NAS100 3ea\\report_inputs.set",
+      "sha256": "2ec0c4eae1af45f310dac47518e895810656f9ce12a96a362693d37c34482ccb"
+    },
+    {
+      "file": "01_NAS100_3ea\\Baseline_evidence\\report.htm",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\nas100_baseline\\report.htm",
+      "sha256": "18b3382e7bfaaaf8b3873b39a123c25900d17230ee4f8ba59337ce14c30a42f3"
+    },
+    {
+      "file": "01_NAS100_3ea\\Baseline_evidence\\result.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\nas100_baseline\\result.json",
+      "sha256": "24f79a6cf555ca0ef843e6af5637cc585adb079694bfe09621f68f0e91a221fc"
+    },
+    {
+      "file": "01_NAS100_3ea\\Baseline_evidence\\summary.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\nas100_baseline\\analytics\\summary.json",
+      "sha256": "2a91e124f25a3c2c3febb78964a3f88b28924d5e485569d1c2ec5e7f3e1ce088"
+    },
+    {
+      "file": "01_NAS100_3ea\\Baseline_evidence\\yearly_stats.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\nas100_baseline\\analytics\\yearly_stats.json",
+      "sha256": "fe7cf5e4f60a938d07fbc044acc85c2681eca938ba7e673f3f212dfba85d9c9a"
+    },
+    {
+      "file": "02_US500_a_2COND\\report_inputs.set",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\US500_a_2COND\\report_inputs.set",
+      "sha256": "db733ae8f76986b93c3aad06af573dca7c4f191a3ee838db57a745cb6ce860f7"
+    },
+    {
+      "file": "02_US500_a_2COND\\US500_a_2COND.ex5",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\US500_a_2COND\\US500_a_2COND.ex5",
+      "sha256": "e1408655c9a387baa0659b708d68a5cd28310af8bfad5e5d14c86bc8b8c879e5"
+    },
+    {
+      "file": "02_US500_a_2COND\\US500_a_2COND.mq5",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\US500_a_2COND\\US500_a_2COND.mq5",
+      "sha256": "e654496806db7711cf1c320875c1ffb8fbef040ee14b08f2216a3c5a5429b09c"
+    },
+    {
+      "file": "02_US500_a_2COND\\Baseline_evidence\\report.htm",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\us500_baseline\\report.htm",
+      "sha256": "a039993fcdf672b1d6c1df038d606d48f898724a7f063147f42e8efa0a0d2f27"
+    },
+    {
+      "file": "02_US500_a_2COND\\Baseline_evidence\\result.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\us500_baseline\\result.json",
+      "sha256": "45f6a17f558ce9bd8655dc75ff935eb1d57c4cd37e650ac25bd5c5bff7b2720d"
+    },
+    {
+      "file": "02_US500_a_2COND\\Baseline_evidence\\summary.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\us500_baseline\\analytics\\summary.json",
+      "sha256": "7dca48d494e47ba7f823c08c4a337acadb2abd52414ff9dcbdeafe86266343ef"
+    },
+    {
+      "file": "02_US500_a_2COND\\Baseline_evidence\\yearly_stats.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\us500_baseline\\analytics\\yearly_stats.json",
+      "sha256": "7daf2e52b49b860890467ebf88a45431ccd7501be00f2956f1441920698eb633"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\report_inputs.set",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\USDJPY 3EA\\report_inputs.set",
+      "sha256": "621036062816c741f9a88ef038d8c9eeb26d994129fcf2204a026eea46e831ce"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\USDJPY 3EA.ex5",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\USDJPY 3EA\\USDJPY 3EA.ex5",
+      "sha256": "a2baac65aa14a2eca7f271a00b3c3f566d51b3d14288a4c97677b6923b8e37bd"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\USDJPY 3EA.mq5",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\frozen\\USDJPY 3EA\\USDJPY 3EA.mq5",
+      "sha256": "bf105b4572a373c9019e7f88fdbb925c25b18085ba774828e0b24732613579c7"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\Baseline_evidence\\report.htm",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\usdjpy_baseline\\report.htm",
+      "sha256": "06f8c415dcd706a78fa1c4c03130cd911a1d45e1fa54b29eafc9f54367493c46"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\Baseline_evidence\\result.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\usdjpy_baseline\\result.json",
+      "sha256": "9c5346edcc49543a54f1d1e98184c3c8f82c0a26b3049514b28f0cbec3431c11"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\Baseline_evidence\\summary.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\usdjpy_baseline\\analytics\\summary.json",
+      "sha256": "204978dc368afbe9d5b8777d9b50d1c6acbc9aea2a7427c5bec0ea106e23e8b1"
+    },
+    {
+      "file": "03_USDJPY_3EA_ORIGINAL\\Baseline_evidence\\yearly_stats.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\runs\\usdjpy_baseline\\analytics\\yearly_stats.json",
+      "sha256": "7f4eefd76668579e47919b908ac001599a59a2c94d748cc9a24b19e59e54e918"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\RESULTS.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\RESULTS.md",
+      "sha256": "afe73bd346dff53360151fb7c2634e960f1103fd64f30a8223bd99eccdbeaa7c"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\CHRONOLOGY_AND_DATA.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\CHRONOLOGY_AND_DATA.md",
+      "sha256": "0d9125dbec2fde25adee5d1431f447181cdbce592a69f4f9d60ab94a58f1c116"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\PHASE4_RESEARCH_DESIGNS.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\PHASE4_RESEARCH_DESIGNS.md",
+      "sha256": "af251b8130327611bbb26151f21bf95a3f0dc3e968d3bf4547024606fc9a8148"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\SESSION_HANDOFF.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\SESSION_HANDOFF.md",
+      "sha256": "2bf575f9c1648d1071cd77e2cedcff902d14d7d229a346df763626fea0c54d29"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\experiment_ledger.csv",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\experiment_ledger.csv",
+      "sha256": "b6f63e8c3e7fba48e62eed457ee1fa78fb3574f2ebf0e8f827ca7b05e78282ae"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\correctness_tests.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\correctness_tests.json",
+      "sha256": "3636a82e452b048d377e39608e78b937fbf675dd84d750d2c0adb94e04ab48ca"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\sizing_comparison.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\sizing_comparison.json",
+      "sha256": "4bab75d849fa5412f9b915a2f3d13f0df5fe70965f23f077eddb41f525a35fbf"
+    },
+    {
+      "file": "Research_documents\\Phase_2\\candidate.json",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_phase2_20261010_v1\\candidate.json",
+      "sha256": "072e8d53d9fe68f026231aee722c5f5075d8be6b40bcaed5e010cf97e4a24c82"
+    },
+    {
+      "file": "Research_documents\\Initial_audit\\CURRENT_STATE.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_20261009\\00_PROJECT_CONTEXT\\CURRENT_STATE.md",
+      "sha256": "b2c6bbd46be56c91cf72ac628edc961f87e0a1f67d7b55d61ac892316f12a5c9"
+    },
+    {
+      "file": "Research_documents\\Initial_audit\\EA_CATALOG.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_20261009\\00_PROJECT_CONTEXT\\EA_CATALOG.md",
+      "sha256": "869aa10cb499f013bb753ad5e50b8d82b617782b971421eab60a295f6e3a52f2"
+    },
+    {
+      "file": "Research_documents\\Initial_audit\\SOURCE_AUDIT.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_20261009\\00_PROJECT_CONTEXT\\SOURCE_AUDIT.md",
+      "sha256": "6ae611b3574d7724cd04d88179d1b997d16325fb79d78233fdcdcb38e1e7041f"
+    },
+    {
+      "file": "Research_documents\\Initial_audit\\ASSESSMENT.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\research\\astra_20261009\\04_BACKTEST_RESULTS\\ASSESSMENT.md",
+      "sha256": "3ba00ce0589d46e828adff7de6b6342002c1a3c223f96302ff3eac1e186df6d2"
+    },
+    {
+      "file": "Research_documents\\Dashboard\\PREDICTIONS.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\PREDICTIONS.md",
+      "sha256": "51ba0f5af5d5c75589ce37b3c8233f600f4a3dd51167308d3eb3d59f4703fe14"
+    },
+    {
+      "file": "Research_documents\\Dashboard\\SYMBOL_HISTORY_VALIDATION.md",
+      "copied_from": "C:\\Users\\heroa\\Downloads\\MT5_Rolling_Tester_Dashboard\\MT5_Rolling_Tester_Dashboard\\docs\\SYMBOL_HISTORY_VALIDATION.md",
+      "sha256": "f3a3289be5da733212de74ac39403dca92518f662c0acc3bd8064b44fdef2f77"
+    }
+  ]
+}

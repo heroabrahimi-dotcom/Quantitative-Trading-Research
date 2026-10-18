@@ -1,0 +1,54 @@
+{
+  "kind": "source-equivalent deterministic fixture; compiled candidate exists; not a native MQL unit execution",
+  "cases": [
+    {
+      "case": "weekdays",
+      "observations": 144,
+      "unique": 144,
+      "accept": true,
+      "passed": true
+    },
+    {
+      "case": "holidays",
+      "observations": 144,
+      "unique": 144,
+      "accept": true,
+      "passed": true
+    },
+    {
+      "case": "143_available",
+      "observations": 143,
+      "unique": 143,
+      "accept": false,
+      "passed": true
+    },
+    {
+      "case": "144_available",
+      "observations": 144,
+      "unique": 144,
+      "accept": true,
+      "passed": true
+    },
+    {
+      "case": "empty",
+      "observations": 0,
+      "unique": 0,
+      "accept": false,
+      "passed": true
+    }
+  ],
+  "unchanged_functions": [
+    "PrevTradingDay",
+    "RefValue",
+    "SignalFor",
+    "SessionBounds",
+    "OpenTrade",
+    "OnTick"
+  ],
+  "synthetic_range_comparison": {
+    "original_average": 21.915972222222223,
+    "corrected_average": 30.230555555555554,
+    "corrected_to_original_unrounded_volume_ratio": 0.7249609482679409
+  },
+  "candidate_sha256": "8148884838566accefd4121080bcdbbdfc4b87c7a656b77aab33a8f1b1e0451f"
+}

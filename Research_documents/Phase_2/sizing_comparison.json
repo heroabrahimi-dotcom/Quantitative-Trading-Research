@@ -1,0 +1,13 @@
+{
+  "parent_entries": 2934,
+  "candidate_entries": 3689,
+  "common_entries": 2934,
+  "candidate_only": 755,
+  "parent_only": 0,
+  "changed_sides_on_common": 0,
+  "changed_average_on_common": 2934,
+  "median_candidate_parent_lot_ratio": 0.8985996866431649,
+  "min_candidate_parent_lot_ratio": 0.18344155844155843,
+  "max_candidate_parent_lot_ratio": 8.80952380952381,
+  "method": "Deduplicated native OPENED journal messages keyed by exact broker timestamp and session; observed filled entries, not all attempted signals."
+}
